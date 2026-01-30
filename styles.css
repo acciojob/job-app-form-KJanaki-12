@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+body{
+	display: flex;
+}
+
+label{
+	display:flex;
+}
